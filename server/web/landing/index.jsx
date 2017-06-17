@@ -83,7 +83,7 @@ class LandingPage extends React.Component {
                 <section className="cta">
                     <div className="cta-content">
                         <div className="container">
-                            <h2>Lion's Den Solar is St Croix, US Virgin Islands premier solar energy installation provider</h2>
+                            <h2>Lion's Den Solar is<br />St. Croix, U.S. Virgin Islands premier solar energy installation provider</h2>
                             <a href="#features" className={ClassNames('btn', 'btn-outline', 'btn-xl')}>Learn More!</a>
                         </div>
                     </div>
